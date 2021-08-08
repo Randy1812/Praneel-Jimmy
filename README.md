@@ -1,3 +1,3 @@
-# Hello, folks! I'm Praneel<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Randy1812&hide=contribs,prs)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Randy1812&show_icons=true&theme=tokyonight)
